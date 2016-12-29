@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-29T18:59:35.337Z</updated>
+  <updated>2016-12-29T20:13:42.296Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>testpost</title>
+    <link href="http://yoursite.com/2016/12/30/testpost/"/>
+    <id>http://yoursite.com/2016/12/30/testpost/</id>
+    <published>2016-12-29T19:47:35.141Z</published>
+    <updated>2016-12-29T20:13:42.296Z</updated>
+    
+    <content type="html"><![CDATA[<p>just for test. however, it seems that Chinese Word is not supported in getbash. Maybe, I need a special editor.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;just for test. however, it seems that Chinese Word is not supported in getbash. Maybe, I need a special editor.&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
