@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-29T20:16:00.058Z</updated>
+  <updated>2016-12-29T20:16:55.939Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,20 +20,14 @@
     <link href="http://yoursite.com/2016/12/30/testpost/"/>
     <id>http://yoursite.com/2016/12/30/testpost/</id>
     <published>2016-12-29T19:47:35.141Z</published>
-    <updated>2016-12-29T20:16:00.058Z</updated>
+    <updated>2016-12-29T20:16:55.939Z</updated>
     
-    <content type="html"><![CDATA[<p>tags:<br>    -test</p>
-<pre><code>-first time
-</code></pre><hr>
-<p>just for test. however, it seems that Chinese Word is not supported in getbash. Maybe, I need a special editor.<br>换了一个编辑器，可以输入中文了，这次应该可以了吧。</p>
+    <content type="html"><![CDATA[<p>just for test. however, it seems that Chinese Word is not supported in getbash. Maybe, I need a special editor.<br>换了一个编辑器，可以输入中文了，这次应该可以了吧。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;tags:&lt;br&gt;    -test&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;-first time
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;p&gt;just for test. however, it seems that Chinese Word is not supported in
+      &lt;p&gt;just for test. however, it seems that Chinese Word is not supported in getbash. Maybe, I need a special editor.&lt;br&gt;换了一个编辑器，可以输入中文了，这次应该可以
     
     </summary>
     
